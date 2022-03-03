@@ -1,4 +1,4 @@
-ublic class JavaFragment extends Fragment {
+Public class JavaFragment extends Fragment {
 
     // Null until onCreateView.
     private Button button;
